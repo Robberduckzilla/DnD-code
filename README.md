@@ -17,9 +17,16 @@
   
     2d. PROFIT.
   
-3. open a command prompt (or terminal/shell in unix) and type:
+3. open a command prompt (or terminal/shell in unix) and run the following commands, one at a time (some will say 'already installed' - this is fine):
+
 "pip install notebook"
 
-4. Download the .csv or .json file and the .ipynb file in this repository
+"pip install pandas"
+
+"pip install json"
+
+"pip install scikit-learn"
+
+4. Download the .csv file and the 'notebook.ipynb' file in this repository
 
 5. Call Rob and do some cool machine learning.
